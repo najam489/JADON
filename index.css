@@ -1,0 +1,203 @@
+
+
+body{
+        overflow-x: hidden;
+
+}
+
+.inner {
+width: 70%;
+margin: 0 auto;
+text-align: center;
+}
+
+                /* ===== start of our-story ===== */
+
+.our-story {
+    padding: 10rem 0 30rem 0;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #f1e5e5;
+    position: relative;
+}
+
+                /* ===== End of our-story ===== */
+
+                /* ===== Start of main-slider ===== */
+
+.main-slider {
+    width: 90%;
+    margin: auto;
+    position: absolute;
+    z-index: 10;
+    left: 0;
+    right: 0;
+    top: 80rem;
+
+}
+
+
+.carousel-item img {
+    height: 100vh;
+    border-radius: 10px;
+ 
+}
+
+                /* ===== End of main slider ===== */
+
+                /* ===== start of what-we-do ===== */
+
+.what-we-do {
+    padding: 35rem 0 10rem 0;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    background-color: white;
+}
+
+
+.what-we-do img {
+    height: 300px;
+    width: 220px;
+    margin-top: 4rem;
+    border-radius: 10px;
+}
+
+.what-we-do-img {
+    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3);
+
+}
+
+                /* ===== End of what-we-do =====  */
+
+
+
+            /* ===== Start of What People Say ===== */
+
+.wps {
+    background-color: #f1e5e5;
+    padding: 8rem 0;
+    width: 100%;
+}
+
+.wps-heading {
+    padding: 0;
+    padding-bottom: 4rem;
+    margin: 0;
+    text-align: center;
+}
+
+.wps-content-box {
+    margin: 1rem;
+    border: 3px solid black;
+    padding: 50px 1rem;
+    text-align: center;
+    word-spacing: 0.5rem;
+    line-height: 2rem;
+    letter-spacing: 0.1rem;
+    box-shadow: -12px 15px 13px -2px;
+}
+
+.wps-inner {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+
+               /* ===== End of what people say ===== */
+
+
+               /* ===== Start of footer ===== */
+
+.footer {
+    margin: 0 auto;
+    padding-top: 10rem;
+    background-color: white;
+
+}
+
+
+.newsletter {
+    padding: 8rem 0;
+    width: 70%;
+    margin: 0 auto;
+    background-color: #ede7e799;
+        box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3);
+
+}
+
+.inner-newsletter {
+    height: 50%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.inner-newsletter h1 {
+    text-align: center;
+}
+
+.newsletter-form {
+    padding-top: 2rem;
+    width: 100%;
+}
+
+input[type="checkbox"] {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+
+}
+
+.form-check {
+    padding: 0px;
+}
+
+.form-check-label {
+    padding-left: 10px;
+}
+
+
+
+.social-media {
+    padding-top: 8rem;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.social-media img {
+    text-align: center;
+    margin: 1rem;
+    height: 50px;
+    width: 50px;
+}
+
+        /* Start of media queries  */
+
+ @media screen and (max-width: 745px){
+     .main-slider {
+         position: relative;
+         top: 0;
+        width: 100%;
+     }
+     .our-story{
+         padding-bottom: 10rem;
+     }
+
+     .what-we-do{
+         padding-top: 10rem;
+     }
+     
+ }
+
+
+
+
+
+
+
+
+
+
+
+
