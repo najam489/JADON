@@ -1,0 +1,89 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;1,300;1,400&display=swap');
+</style>
+
+
+.col-md-4{
+    margin-top: 4rem;
+}
+        /* start of main content */
+
+.main-content{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 4rem 0;
+}
+
+
+.tailored, .quality, .philosphy{
+    height: 50%;
+}
+
+
+
+                /* start of our team  */
+
+.our-team{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 8rem;
+}
+
+.our-team-heading{
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+    font-family: 'Merriweather',
+    serif;
+
+}
+
+.our-team img{
+    width: 250px;
+    height: 250px;
+}
+
+.member-name{
+    padding-top: 1rem;
+
+}
+
+            /* End of our team */
+
+        /* start of press */
+
+
+
+                
+          /* ===== Startof What People Say ===== */
+.press-review {
+    background-color: #f1e5e5;
+    padding: 8rem 0;
+    width: 100%;
+}
+
+.press-heading {
+    padding: 0;
+    padding-bottom: 8rem;
+    margin: 0;
+    text-align: center;
+}
+
+.press-content-box {
+    border: 1px solid red;
+    margin: 1rem;
+    border: 3px solid black;
+    padding: 50px 1rem;
+    text-align: center;
+    word-spacing: 0.5rem;
+    line-height: 2rem;
+    letter-spacing: 0.1rem;
+    box-shadow: -12px 15px 13px -2px;
+}
+
+.press-inner {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}

@@ -1,0 +1,33 @@
+.services-section .row {
+    margin-top: 8rem;
+}
+
+h2{
+    padding: 2rem 0;
+}
+
+p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+
+
+
+
+.image-container{
+    width: 20rem;
+}
+
+.image-container img{
+    width: 100%;
+}
+
+.service-info-right{
+    text-align: right;
+    padding: 6rem 0;
+}
+
+ 

@@ -1,0 +1,19 @@
+.reservations {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 4rem;
+}
+
+.heading{
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+}
+
+.devider{
+    margin-top: 4rem;
+}
+
+p{
+    font-size: 1rem;
+}

@@ -1,0 +1,144 @@
+
+ 
+/* .contact-container{
+    height: 100%; 
+} */
+
+.contact-us {
+    width: 50%;
+    height: 60%;
+    margin: 0 auto;
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+    border-radius: 1rem;
+    background-color: #262626;
+    padding-top: 1rem;
+    box-shadow: -6px 6px 6px black;
+}
+
+                    /* ===== Start of contact of navigation ===== */
+
+.contact-us-navigation {
+    width: 100%;
+    height: 2.5rem;
+    position: relative;
+    border-radius: 1rem 1rem 0 0rem;
+    background-color: #0c0c0c;
+    background-color: #505050;
+    bottom: 1rem;
+    
+}
+
+
+
+
+                /* ===== Start of Main content ===== */
+
+
+
+.card-row-content{
+    width: 100%;
+    text-align: center;
+    border-radius: 0 0 0 1rem;
+    /* padding-top: 2rem; */
+}
+
+.content-heading{
+    font-size: 2rem;
+    font-weight: bolder;
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+  
+    color: #FCF6F5FF;
+}
+
+.content-address{
+font-size: 1rem;
+font-weight: lighter;
+padding-bottom: 1rem;
+
+color: #FCF6F5FF;
+
+}
+ 
+.content-email {
+
+color: #FCF6F5FF;
+}
+
+.content-email:hover, .content-number:hover{
+    color: yellow;
+    font-weight: bold;
+}
+
+.content-number {
+    font-weight: lighter;
+    padding-top: 1rem;
+    
+    color: #FCF6F5FF;
+}
+
+
+
+.form{
+    width: 100%;
+    border-radius: 0 0 1rem 0;
+    padding-top: 1.5rem;
+    
+}
+
+input{
+    width: 100%;
+    padding: 0.5rem 0.5rem;
+    border: none;
+    margin: 0.3rem 0;
+}
+
+
+.message-submit{
+    width: 100%;
+    position: relative; 
+}
+
+.message-submit input[type=text]{
+    padding: 2.3rem 0.5rem;
+}
+
+.message-submit input[type=submit]{
+    width: 50%;
+    position: absolute;
+    
+    top: 5rem;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border: 1px solid black;
+}
+
+
+
+
+    /* start of contact content */
+
+.contact-content{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 4rem;
+}
+
+.contact-content-heading{
+    padding: 8rem 0 4rem 0;
+}
+ 
+/* start of map  */
+
+#map {
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+    border: 5px solid black;
+    border-width: thick;
+    padding-top: 8rem;
+    margin-top: 8rem;
+}
